@@ -21,7 +21,7 @@ public class Checkprime {
             count++;
         }
         if(count==2)
-        System.out.println("The input No. is prime No");
+        System.out.println("The input No.=" +N+ "is prime No");
         else
         System.out.println("It is not a prime No.");
     }
